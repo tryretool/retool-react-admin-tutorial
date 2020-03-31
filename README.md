@@ -1,10 +1,3 @@
-##Installation
-clone repo into a directory
+This is the (finished) repo for our tutorial about [building an admin console in react-admin](https://retool.com/blog/building-an-admin-console-in-react-admin).
 
-`cd retool-react-admin-tutorial`
-
-`npm install`
-
-`npm start`
-
-For more information regarding react-admin, checkout https://marmelabs.com
+For more information about react-admin, checkout https://marmelabs.com.
